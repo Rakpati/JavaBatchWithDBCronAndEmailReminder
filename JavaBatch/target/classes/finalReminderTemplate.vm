@@ -1,0 +1,7 @@
+
+<html>
+    <body>
+        <h3>Hi ${user},</h3>
+			<h4>This is the final reminder email</h4>
+    </body>
+</html>
